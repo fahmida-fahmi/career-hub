@@ -1,0 +1,33 @@
+[
+  {
+    "id": "103",
+    "name": "Student Membership",
+    "features": [
+      "Access to gym facilities",
+      "Student-only hours",
+      "Group fitness classes"
+    ],
+    "price": 30
+  },
+  {
+    "id": "101",
+    "name": "Standard Membership",
+    "features": [
+      "Access to gym facilities",
+      "Group fitness classes",
+      "Locker access"
+    ],
+    "price": 50
+  },
+  {
+    "id": "102",
+    "name": "Premium Membership",
+    "features": [
+      "All features from Standard Membership",
+      "Personal training sessions",
+      "Sauna and spa access"
+    ],
+    "price": 100
+  }
+  
+]

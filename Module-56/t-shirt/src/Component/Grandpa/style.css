@@ -1,0 +1,8 @@
+.grandpa div{
+    border: 1px solid orange;
+    border-radius: 8px;
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+
+}

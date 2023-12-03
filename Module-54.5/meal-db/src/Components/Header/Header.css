@@ -1,0 +1,9 @@
+/* #detail{
+    color: white;
+} */
+.loading{
+    background: grey;
+    width: 100px;
+    height: 100px;
+    
+}
